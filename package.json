@@ -1,7 +1,7 @@
 {
-  "name": "discordjs-musicbot",
-  "version": "2.0.0",
-  "description": "Most Advanced open-source discord music bot, Made by NithishPravin",
+  "name": "weekys-bot",
+  "version": "1.0.0",
+  "description": "Bot, made by fblazedev",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
